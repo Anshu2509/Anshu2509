@@ -9,6 +9,12 @@
 ![](https://streak-stats.demolab.com/?user=Anshu2509&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anshu2509&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<h3><span style="color:#00ff00;">$ run contribution_snake</span></h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
